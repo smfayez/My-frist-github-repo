@@ -1,0 +1,129 @@
+
+body{
+    font-family: Poppins, serif;
+    background-color: #E5E5E5!important;
+}
+.navbar{
+    background-color: blue !important;
+    font-family: Poppins, serif;
+}
+.navbar .logo{
+    margin-left: 230px;
+}
+.logo span{
+    font-size: 30px !important;
+    color: white;
+}
+.navbar ul{
+   margin-left: 400px;
+}
+.nav-item a{
+    color: white !important;
+    font-weight: 500;
+    font-family: Poppins, serif;
+    font-size: 18px;
+}
+                 /* main  */
+.main{
+    max-width:870px;
+    height: 750px;
+    background-color: #ffff;
+}
+.player{
+    display: flex;
+    gap: 7px;
+    padding: 15px;
+}
+.t{
+    margin-top: 22px;
+}
+.player p{
+    font-family:Poppins, serif ;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 22px;
+}
+.player img{
+    width: 60px;
+}
+.top{
+    font-family: Poppins, serif;
+    font-size: 30px;
+    color: #562EFF;
+}
+
+.player-t{
+    display: flex;
+    gap: 7px;
+    padding: 16px;
+    margin-top: 20px !important;
+}
+.player-t img{
+    width: 60px;
+}
+.player-t p{
+    color: black;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 22px;
+}
+/* blog */
+.blog{
+    display: flex;
+    margin-top: 20px !important;
+}
+.blog img{
+    width: 177px;
+    height: 140px;
+    margin-left: 6px;
+}
+.blog p{
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 9px;
+    margin-top: 20px;
+}
+.blog .by{
+    color: gray;
+}
+.blog  .nam{
+    color:#562EFF ;
+}
+                        /* course */
+ .course{
+    max-width: 870px;
+    height: 362px;
+    background-color: #fff;
+    margin-left: 185px !important;
+   
+ }
+ .card{
+    width: 252px;
+    height: 269px !important;
+    background-color: #fff !important;
+    border: 1px solid white !important;
+ } 
+ .card h1{
+    font-family:Poppins, serif ;
+    font-size: 25px;
+    font-weight: 500;
+ }
+ .card p{
+    color: red;
+ }
+ .card img{
+    margin-top: 20px;
+ }
+
+
+ .mm{
+    display: flex;
+ }
+ .ww{
+
+
+  margin-top: 20px;
+
+
+ }
